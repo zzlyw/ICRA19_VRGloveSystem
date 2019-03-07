@@ -22,7 +22,7 @@ The following figure shows logged trajectories.
 
 A video demo could be found [here](./video/VRGloveSmall.mp4).
 
-# Prerequisites
+# Requirements
 
 **Hardware**
 * Raspberry Pi 2 Model B
