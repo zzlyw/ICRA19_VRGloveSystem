@@ -37,11 +37,11 @@ A video demo could be found [here](./video/VRGloveSmall.mp4).
 
 ## Install
 
-1. Download the Raspberry Pi ISO from here: https://drive.google.com/drive/u/1/folders/1rJFXuYfVE6J7oO_y629rIC2xenuIMJlL
+1. Download the Raspberry Pi ISO from the RaspberryPi folder in this link: https://drive.google.com/drive/folders/1g-GsbTthTljHDR6WNw_vKX8459tFBysl?usp=sharing
 
 2. Then install the ISO to your own Raspberry Pi. Make sure your VR glove is the same as ours. The technical details can refer to our paper. Finally, Connect the Raspberry Pi with your VR glove.
 
-3. Install UE4.14 to your windows computer, and download our project here: https://drive.google.com/drive/u/1/folders/10IToMae5PgqOwekfzZXOuK1ySSHYx0ea
+3. Install UE4.14 to your windows computer, and download our project from the UE4 folder in this link: https://drive.google.com/drive/folders/1g-GsbTthTljHDR6WNw_vKX8459tFBysl?usp=sharing
 
 4. Install Steam VR to set up the HTC Vive. Then open the VR device support in UE4 and compile the project.
 
