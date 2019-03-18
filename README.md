@@ -52,6 +52,10 @@ To run the whole system, you need to make sure that the windows computer and the
 ```
 ssh pi@192.168.1.235
 ```
+or search it by name if you do not have IP address:
+```
+ssh pi@tacglovex
+```
 And enter the password: raspberry
 
 Then you have successfully logged in the Raspberry Pi.
